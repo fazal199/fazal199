@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hey, My name is Fazal!<br>👨‍💻I am full a stack Web Developer and Freelancer from India.<br>❣️I love to Create and Design Websites.<br>🪴Currently learning 3D and Animation suff.<br> 
+👋Hey, My name is Fazal!<br>👨‍💻I am a Full Stack Web Developer and Freelancer from India.<br>❣️I love to Create and Design Websites.<br>🪴Currently learning 3D and Animation suff.<br> 
 
 
 ## 🌐 Socials:
